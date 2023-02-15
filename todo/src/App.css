@@ -1,0 +1,30 @@
+html{
+background-color: azure;
+}
+
+#App{
+    text-align: center;
+    /* justify-content: center; */
+}
+.listItem{
+    list-style: none;
+    padding: 1rem;
+    margin-bottom:.5rem;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    border: solid 1px;
+    max-height: 45px;
+    background-color: blanchedalmond;
+}
+#checkbox{
+    margin-right: 99%;
+}
+#button{
+    margin-left: 90%;
+    width:60px;
+}
+#todotext{
+    /* margin-left:20%; */
+    margin-top: -27px;
+    margin-bottom: -13px;
+}
